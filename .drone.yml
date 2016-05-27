@@ -51,3 +51,5 @@ services:
       - MYSQL_DATABASE=test
       - MYSQL_ALLOW_EMPTY_PASSWORD=yes
       
+      
+      
